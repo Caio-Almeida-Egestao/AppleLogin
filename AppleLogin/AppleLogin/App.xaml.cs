@@ -9,7 +9,7 @@ namespace AppleLogin
 {
     public partial class App : Application
     {
-        public const string LoggedInKey = "LoggedIn";
+        public const string LoggedInKey = "WNAYSK88JX.com.companyname.BeepIt.Singin";
         public const string AppleUserIdKey = "WNAYSK88JX.com.companyname.BeepIt";
         string userId;
         public App()
